@@ -1,0 +1,47 @@
+#titulo{
+    float:up;
+    width:50%;
+	font-size:50px;
+	color:#a52a2a;
+}
+
+form {
+  width: 550px;
+  margin: 0 0 0 0 ;
+  padding: 50px 60px;
+  background-color: #ff7f50;
+  border-radius: 20px;
+}
+
+fieldset {
+  padding: 0 20px 20px;
+  margin: 0 0 30px ;
+  border: 2px solid #deb887;
+  background: #ffebcd ;
+  border-radius: 10px;
+}
+
+legend {
+  color: #dc143c;
+  background: #f0f8ff;
+  font-size: 0.9em;
+  font-weight: bold;
+  text-align: left;
+  padding: 5px;
+  margin: 0;
+  width: 10em;
+  border: 2px solid #660033;
+  border-radius: 5px;
+ }
+
+label {
+  display: block;
+  float: left;
+  clear: left;
+  text-align: left;
+  width: 100%;
+  padding: .4em 0 0 0;
+  margin: .15em 0 0 0;
+}
+
+ 
